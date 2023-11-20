@@ -86,13 +86,13 @@ In the architecture, you can configure your architecture with these conditions,
 ```text
 007:clarusway_ansible_proj (folder)
 |
-|----Readme.md               # Given to the students (Definition of the project)
-|----todo-app-perm (folder)  # Given to the students (Nodejs and React files)
+|----Readme.md               # Given to the team (Definition of the project)
+|----todo-app-perm (folder)  # Given to the team (Nodejs and React files)
 |       1.server (folder) ---> Nodejs folders and files
 |       2.client (folder) ---> React folders and files
 |       3.database (folder)--> init.sql file 
-|----developer_notes.txt     # Given to the students (txt file)
-|----Ansible-Playbook        # This will be created by student
+|----developer_notes.txt     # Given to the team (txt file)
+|----Ansible-Playbook        # This will be created by team
 ```
 
 ## Expected Outcome
@@ -119,7 +119,7 @@ In the architecture, you can configure your architecture with these conditions,
 
 - Git & Github for Version Control System
 
-### At the end of the project, students will be able to;
+### At the end of the project, team will be able to;
 
 - Write Ansible playbook in different ways which are without Roles and with Roles
 
